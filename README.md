@@ -1,6 +1,6 @@
 # 🤵 Agent Jean („Janek“): Sovereign SBT DevSecOps Orchestrator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Asgard Dual License](https://img.shields.io/badge/License-Asgard%20Dual%20License%20v2.0-blue.svg)](LICENSE)
 [![Verification: Level 4 Gold](https://img.shields.io/badge/SPARK%202022-Level%204%20Gold%20(DO--178C%20DAL--A)-brightgreen)](spark/)
 [![GitLab Transcend](https://img.shields.io/badge/GitLab%20Transcend-Life%20After%20Code-orange)](https://gitlab-transcend.devpost.com/)
 [![Status: Locked For Judging](https://img.shields.io/badge/Status-Locked%20for%20Judging-blue)](https://devpost.com/software/agent-jean-janek-sovereign-sbt-devsecops-relay)
@@ -72,4 +72,4 @@ gnatprove -P default.gpr --level=4 --report=all
 This repository is **locked and frozen** for the duration of the GitLab Transcend Hackathon evaluation phase. Commit hashes and release tags are immutable.
 
 ## 📜 License
-Released under the [MIT License](LICENSE).
+Released under the [Asgard Dual License](LICENSE) (Sovereign Dual Licensing Model for Non-Commercial & Commercial Use — Rebirth Phoenix Foundation Trust).
