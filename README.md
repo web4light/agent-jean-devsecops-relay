@@ -1,4 +1,4 @@
-# 🤵 Agent Jean („Janek“): Sovereign SBT DevSecOps Orchestrator
+# 🤵 Agent Jean („Žán“): Sovereign SBT DevSecOps Orchestrator
 
 [![License: Asgard Dual License](https://img.shields.io/badge/License-Asgard%20Dual%20License%20v2.0-blue.svg)](LICENSE)
 [![Verification: Level 4 Gold](https://img.shields.io/badge/SPARK%202022-Level%204%20Gold%20(DO--178C%20DAL--A)-brightgreen)](spark/)
@@ -13,9 +13,9 @@
 
 ---
 
-## 🎩 Who is Agent Jean („Janek“)?
+## 🎩 Who is Agent Jean („Žán“)?
 
-In an era dominated by generic, hallucinating chatbots and runaway per-token cloud bills, **Agent Jean** (affectionately called *„Janek“* in Czech) emerges as the sovereign digital butler and DevSecOps orchestrator.
+In an era dominated by generic, hallucinating chatbots and runaway per-token cloud bills, **Agent Jean** (the quintessential loyal butler archetype, pronounced *„Žán“* — „Žáne, čaj!“ / „Ano, pane!“) emerges as the sovereign digital butler and DevSecOps orchestrator.
 
 Jean is not a loose chat prompt. He is cryptographically bound to a single human sovereign through a non-transferable **Soulbound Token (SBT) / Hardware Key**. Jean answers only to his master, guards the repository with uncompromising loyalty, and autonomously manages the entire post-code DevSecOps lifecycle across GitLab.
 
