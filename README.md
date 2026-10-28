@@ -1,6 +1,7 @@
 # 🤵 Agent Jean („Žán“): Sovereign SBT DevSecOps Orchestrator
 
-[![License: Asgard Dual License](https://img.shields.io/badge/License-Asgard%20Dual%20License%20v2.0-blue.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE)
+[![Dual License: Asgard](https://img.shields.io/badge/Dual_License-Asgard_Sovereign_v2.0-blue.svg)](LICENSE)
 [![Verification: Level 4 Gold](https://img.shields.io/badge/SPARK%202022-Level%204%20Gold%20(DO--178C%20DAL--A)-brightgreen)](spark/)
 [![GitLab Transcend](https://img.shields.io/badge/GitLab%20Transcend-Life%20After%20Code-orange)](https://gitlab-transcend.devpost.com/)
 [![Status: Locked For Judging](https://img.shields.io/badge/Status-Locked%20for%20Judging-blue)](https://devpost.com/software/agent-jean-janek-sovereign-sbt-devsecops-relay)
@@ -71,5 +72,9 @@ gnatprove -P default.gpr --level=4 --report=all
 
 This repository is **locked and frozen** for the duration of the GitLab Transcend Hackathon evaluation phase. Commit hashes and release tags are immutable.
 
-## 📜 License
-Released under the [Asgard Dual License](LICENSE) (Sovereign Dual Licensing Model for Non-Commercial & Commercial Use — Rebirth Phoenix Foundation Trust).
+## 📜 License (Dual Licensing & Multi-Project Notice)
+
+This project is released under a **Dual License** model:
+- **Open Source & Hackathon Evaluation:** [Apache License 2.0](LICENSE) — fully open for evaluation, testing, non-commercial research, accessibility and public good.
+- **Commercial & Enterprise Use:** Asgard Sovereign Dual License v2.0. For commercial licensing, enterprise integration, or proprietary deployments, contact: [phoenix@web4light.online](mailto:phoenix@web4light.online) or [asgard.lab4@gmail.com](mailto:asgard.lab4@gmail.com).
+- **Multi-Component Architecture:** Individual submodules, packages, and formal SPARK specifications within this repository retain their respective open-source licenses (Apache 2.0, MIT, GPL 3.0, BSD) as specified in their source headers. All rights reserved by Pan Jeskyně / Rebirth Phoenix Foundation Trust.
